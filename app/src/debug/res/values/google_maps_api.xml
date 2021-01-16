@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    FARKLI BİLGİSAYARDAN UYGULAMAYI TASIDFIGIMIZ İCİN APİ KEY HATASI VERİYOR. AMA MAIN ACTIVITY SAYFASINDAKİ KODLAAR ÜDZGÜN CALISIYOR TEST EDİLDİ
+    çözüm allta sertifikanın hangisi olmadıgı gerektiğppi ile ilgili hatayı veriyor asagıdaki linkin sonunu o sertifica kodu ve paket adı iledegisitrerek girdiginde sorun couzluyor.
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=33:D4:2D:A3:B4:48:BB:3E:C8:02:9F:33:09:88:64:B9:8B:8E:E2:1E;com.devhen.gmapsv2
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.devhen.gmapsv2
+
+    SHA-1 certificate fingerprint:
+    79:31:2A:D5:EB:FC:94:22:85:C5:50:19:97:C4:97:84:CF:E2:CE:BB
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCbyhz-L3Z_5iorwSB0hVAl0jTUFNODkuU</string>
+</resources>
